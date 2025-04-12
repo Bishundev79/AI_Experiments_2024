@@ -1,0 +1,20 @@
+# PyCharm project files
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Large datasets or temporary files
+*.csv
+*.h5
+*.pickle
+*.zip
+
+# Sensitive files
+.env
+*.key
